@@ -1,2 +1,2 @@
-# QBasic-Software
+# QBasic programs 
 Some QBasic programs that I made.
