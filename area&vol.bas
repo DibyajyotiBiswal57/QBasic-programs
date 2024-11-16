@@ -2,12 +2,14 @@ Print "Do you want to find volume or area?"
 Print "If volume type = 1"
 Print "If area type = 2"
 Input opt
+CLS
 If opt = 1 Then
     Print "For which 3D object you wish to find the volume of?"
     Print "If cuboid type = 1"
     Print "If cube type = 2"
     Print "If cylinder type = 3"
     Input volume
+CLS
     If volume = 1 Then
         Print "What is the length?"
         Input length
@@ -42,6 +44,7 @@ If opt = 2 Then
     Print "For circle type = 3"
     Print "For triangle type = 4"
     Input area
+CLS
     If area = 1 Then
         Print "What is the side of the square?"
         Input side
