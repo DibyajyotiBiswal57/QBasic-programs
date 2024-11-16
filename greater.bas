@@ -1,3 +1,4 @@
+Print "This program tells which number is greater than the 2 numbers."
 Print "Enter two numbers"
 Input a
 Input b
