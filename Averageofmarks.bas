@@ -1,3 +1,4 @@
+Print "This program finds the average of 4 exam results."
 Print "Enter 4 exam marks"
 Input a
 Input b
