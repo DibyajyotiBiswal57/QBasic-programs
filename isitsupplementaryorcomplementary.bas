@@ -1,3 +1,4 @@
+Print "This program tells you if 2 angles are complementary or supplementary."
 Print "Enter 2 angles (without the degree symbol)."
 Input a
 Input b
