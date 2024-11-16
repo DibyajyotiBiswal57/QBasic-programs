@@ -1,3 +1,4 @@
+Print "This program reverses a number"
 Print "Enter a 3 digit number"
 Input a
 If a < 100 Or a > 999 Then
