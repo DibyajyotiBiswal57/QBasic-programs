@@ -1,3 +1,4 @@
+Print "This program finds the sum."
 Print "Enter 3 numbers"
 Input a
 Input b
