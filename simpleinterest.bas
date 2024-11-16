@@ -1,3 +1,4 @@
+Print "This program finds the Simple Interest on a sum of money."
 Print "What is the principal?"
 Input p
 Print "What is the time?"
