@@ -1,3 +1,4 @@
+Print "This program finds if you incurred a profit or loss on selling an article."
 Print "Enter the cost price of the article."
 Input a
 Print "Enter the selling price of the article."
