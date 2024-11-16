@@ -1,4 +1,5 @@
 Cls
+Print "This program finds odd numbers between 2 numbers."
 Input "Enter the start number (m): ", m
 Input "Enter the end number (n): ", n
 
