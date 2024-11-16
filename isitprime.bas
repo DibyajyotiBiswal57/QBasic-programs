@@ -1,4 +1,5 @@
 Cls
+Print "This program checks if a number is prime or not."
 Input "Enter a number (1 to 100): ", num
 count = 0
 
