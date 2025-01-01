@@ -1,11 +1,9 @@
 Print "This program tells you if the number is even or odd."
 Print "Enter a number:"
 Input a
-If a + b = 90 Then
-    Print "The angles are comlementary."
-Else If a + b = 180 Then
-        Print "The angles are supplementary."
+If a mod 2= 0 Then
+    Print "The number is even."
     Else
-        Print "The angles are neither complementary nor supplementary."
+        Print "The number is odd."
     End If
-End If
+End 
