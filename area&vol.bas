@@ -118,3 +118,4 @@ If opt = 2 Then
         Print 1 / 2 * d1 * d2; "is the area!"
     End If
 End If
+End
