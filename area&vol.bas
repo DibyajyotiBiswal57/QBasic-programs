@@ -22,13 +22,9 @@ If opt = 1 Then
         Print (length * breadth * height); "is your volume!"
     End If
     If volume = 2 Then
-        Print "What is the length?"
+        Print "What is the side?"
         Input length
-        Print "What is the Breadth?"
-        Input breadth
-        Print "What is the height?"
-        Input height
-        Print (length * breadth * height); "is your volume!"
+        Print (length * length * length); "is your volume!"
 
     End If
     If volume = 3 Then
@@ -68,7 +64,7 @@ If opt = 2 Then
     If area = 1 Then
         Print "What is the side of the square?"
         Input side
-        Print side * 4; "is the area!"
+        Print side * side; "is the area!"
     End If
 
     If area = 2 Then
@@ -81,14 +77,14 @@ If opt = 2 Then
     If area = 3 Then
         Print "What is the radius of the circle?"
         Input radius
-        Print 2 * 22 / 7 * radius; "is the area!"
+        Print 22 / 7 * radius * radius; "is the area!"
     End If
     If area = 4 Then
         Print "What is the height of the triangle?"
         Input height
         Print "What is the base?"
-        Input bas
-        Print 1 / 2 * height * bas; "is the area!"
+        Input base
+        Print 1 / 2 * height * base; "is the area!"
     End If
 
     If area = 6 Then
